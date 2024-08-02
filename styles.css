@@ -11,3 +11,10 @@ h1 {
     padding: 10px;
     background-color: #fff;
 }
+
+title {
+    color: red;
+    border: 1px solid red;
+    padding: 10px;
+    background-color: #fff;
+}
